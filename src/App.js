@@ -1,6 +1,7 @@
 import './App.css';
 
 function App() {
+  const name = '리액트';
   return(
     <>
       <h1> 리액트 안녕 ! </h1>
